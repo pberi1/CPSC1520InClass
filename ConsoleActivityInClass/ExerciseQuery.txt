@@ -1,0 +1,11 @@
+1. getting the h1 heading
+document.querySelector('h1');
+
+2. getting the figure-img
+document.getElementById('figure-img');
+
+3. selecting the first paragraph of the page
+document.querySelector('p');
+
+4. selecting the h2 heading with class intro
+document.querySelector('h2.intro');
